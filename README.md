@@ -1,0 +1,2 @@
+# kasc
+Kafka Sidecar Client
